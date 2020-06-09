@@ -25,6 +25,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'sass-rails', '~> 6.0'
+gem 'bootstrap_form'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
