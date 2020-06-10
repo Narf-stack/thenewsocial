@@ -32,7 +32,7 @@ gem 'coffee-script-source', '~> 1.12', '>= 1.12.2'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+gem 'faker', '~> 2.12'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
