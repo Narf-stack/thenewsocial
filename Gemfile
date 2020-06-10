@@ -26,6 +26,8 @@ gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'sass-rails', '~> 6.0'
 gem 'bootstrap_form'
+#gem 'bootstrap', '~> 4.5'
+gem 'coffee-script-source', '~> 1.12', '>= 1.12.2'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
