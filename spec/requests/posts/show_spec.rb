@@ -20,5 +20,4 @@ RSpec.describe "show", :type => :request do
 
     it_behaves_like 'render_show_template'
   end
-
 end
